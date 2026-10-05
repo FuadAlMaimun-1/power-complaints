@@ -1,5 +1,4 @@
 import { NextResponse } from 'next/server';
-import { AREAS } from '../../../data/content';
 
 const CONTACT = {
   sms: /^(\+?88)?01[3-9]\d{8}$/,
